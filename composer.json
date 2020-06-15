@@ -1,0 +1,20 @@
+{
+    "name": "j_bog/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+
+    "autoload": {
+
+        "classmap": [
+            "classes"
+        ]
+    },
+
+    "authors": [
+        {
+            "name": "Jane Bogoeski",
+            "email": "j_bogoeski@hotmail.com"
+        }
+    ]
+}
